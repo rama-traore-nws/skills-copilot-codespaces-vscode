@@ -25,7 +25,7 @@ _Présentation 😁_
 
 ## Moi et mes projets
 
-#Vous avez besoin d’aide en dessin? Vous ne savez pas par où commencer dans la poterie? Vous voulez essayer le tricot? Ou vous aimez juste l’art tout comme moi? Alors vous avez trouvé la bonne personne ‼️
+# Vous avez besoin d’aide en dessin? Vous ne savez pas par où commencer dans la poterie? Vous voulez essayer le tricot? Ou vous aimez juste l’art tout comme moi? Alors vous avez trouvé la bonne personne ‼️
 
 Je suis Rama Traoré et je suis très curieuse dans le domaine de l’art. Lorsqu’il s’agit de donner des conseils, d’en recevoir ou encore d’aider les personnes dans le besoin, faites appel à moi.
 

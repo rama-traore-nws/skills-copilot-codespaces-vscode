@@ -22,7 +22,7 @@ _Présentation 😁_
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
-
+<img src="assets/images/Logo-NWS-blanc.svg" alt="Exemple d'image">
 ## Moi et mes projets
 
 Vous avez besoin d’aide en dessin? Vous ne savez pas par où commencer dans la poterie? Vous voulez essayer le tricot? Ou vous aimez juste l’art tout comme moi? Alors vous avez trouvé la bonne personne ‼️
